@@ -17,7 +17,7 @@ database rows as objects and embellish these data objects with business logic
 methods. You can read more about Active Record in
 link:files/vendor/rails/activerecord/README.html.
 
-The controller and view are handled by the Action Pack, which handles both
+Controller and view are handled by the Action Pack, which handles both
 layers by its two parts: Action View and Action Controller. These two layers
 are bundled in a single package due to their heavy interdependence. This is
 unlike the relationship between the Active Record and Action Pack that is much
